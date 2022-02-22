@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at St. Catherine Cree-Church, upon Sunday the 1st of March 1695/6 upon occasion of the late horrid plot / by Nicholas Brady ...</title>
+            <author>Brady, Nicholas, 1659-1726.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29162</idno>
+            <idno type="STC">Wing B4180</idno>
+            <idno type="STC">ESTC R19559</idno>
+            <idno type="EEBO-CITATION">12115583</idno>
+            <idno type="OCLC">ocm 12115583</idno>
+            <idno type="VID">54283</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29162)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54283)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 759:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at St. Catherine Cree-Church, upon Sunday the 1st of March 1695/6 upon occasion of the late horrid plot / by Nicholas Brady ...</title>
+                  <author>Brady, Nicholas, 1659-1726.</author>
+               </titleStmt>
+               <extent>[4], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Parker ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published at the request of the auditors."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Exodus XIV, 13 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54283:1"/>
+            <pb facs="tcp:54283:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at <hi>St.</hi> Catherine Cree-Church, Upon <hi>Sunday</hi> the 1ſt of <hi>MARCH,</hi> 1695/6. Upon Occaſion of the <hi>Late Horrid Plot.</hi>
+            </p>
+            <p>By <hi>Nicholas Brady</hi> M. A. Minſter of St. <hi>Cathe<g ref="char:EOLhyphen"/>rine Cree-Church,</hi> and Chaplain in Ordinary to His Majeſty.</p>
+            <p>
+               <hi>Publiſhed at the requeſt of the Auditors.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Parker,</hi> at the <hi>
+                  <g ref="char:V">Ʋ</g>nicorn,</hi> under the <hi>Piazza</hi> of the <hi>Royal Exchange.</hi> 1696.</p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:54283:2"/>
+            <p>Mr: <hi>BRADY's</hi> SERMON Upon the occaſion of the <hi>Late Horrid Plot.</hi>
+            </p>
+            <pb facs="tcp:54283:3"/>
+            <pb facs="tcp:54283:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:54283:4"/>
+            <pb n="1" facs="tcp:54283:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Exod. XIV. part of the 13th verſe.</hi>
+                  </bibl>
+                  <p>Fear ye not, ſtand ſtill, and ſee the Salva<g ref="char:EOLhyphen"/>tion of the Lord.</p>
+               </q>
+            </epigraph>
+            <p>WE have lately been ſurpriz'd with a diſmal Account of <hi>an horrid Conſpira<g ref="char:EOLhyphen"/>cy carried on at Home,</hi> and have at the ſame time been no leſs Alarm'd, with the well grounded Rumour of an <hi>Invaſion from abroad;</hi> and this may, perhaps, too much diſmay and diſcompoſe the Ignorant, too much affect the thoughtleſs and inconſiderate, who meaſuring the Forces of our Enemies by their Vanity and Preſumption, or proportioning their Strength to their malice and inveteracy, may look upon the preſent Danger as much great<g ref="char:EOLhyphen"/>er than it is, dreſs up a <hi>Bug-bear</hi> in their own Imagination, and then tremble at the fright<g ref="char:EOLhyphen"/>fulneſs
+<pb n="2" facs="tcp:54283:5"/>of its appearance. But, as to be wholly unaffected with National Calamities, and to be utterly unconcern'd at the diſaſters of the Publick, is to be guilty of a vitious Careleſsneſs, and deſerves the Imputation of a <hi>Stoical Stupidity;</hi> ſo, to be too apprehenſive of uncertain hazards, to magnify a danger only that we may the better excuſe our fear of it, is a Proceeding mean and ungenerous, unbecoming the fortitude of <hi>Engliſh Men and Christians;</hi> ſince therefore Courage and Reſo<g ref="char:EOLhyphen"/>lution are at all times neceſſary, either to make us deſpiſe a danger that is ſmall, or to wreſtle and encounter with ſuch hazards as are greater; ſince, were our circumſtances yet better than they are, a reliance upon God would be our ſureſt Protection; I have thought ſit, to Addreſs my ſelf to thoſe who now hear me, as the Prophet <hi>Moſes</hi> did to the People of <hi>Iſrael,</hi> to make uſe of his ſhort, but comprehenſive Exhortation; <hi>Fear ye not, ſtand ſtill, and ſee the Salvation of the Lord.</hi>
+            </p>
+            <pb n="3" facs="tcp:54283:5"/>
+            <p>Theſe words were directed by the <hi>Prophet</hi> to the <hi>Iſraelites,</hi> when they were all threatned with a general Deſtruction, which in human probability ſeem'd utterly unavoidable. <hi>Pha<g ref="char:EOLhyphen"/>raoh,</hi> being incens'd at their going out of <hi>Egypt,</hi> to offer Sacrifice unto their God, purſues after them with his Chariots and his Horſemen, even all the Forces of the Land of <hi>Egypt;</hi> he overtakes them Encamping by the <hi>Red Sea,</hi> having the inacceſſible Mountains of <hi>Baal-ze<g ref="char:EOLhyphen"/>phon</hi> and <hi>Pi-hahiroth</hi> on either ſide; the only paſſage, which Nature and the Situation of the place had left open for their eſcape, the Enemy poſſeſſed; and thereby reduced them to this ſad Election, either of Periſhing by the Sword, or by the Waves: Yet notwith<g ref="char:EOLhyphen"/>ſtanding their condition was ſo very deplo<g ref="char:EOLhyphen"/>rable, that it made them to murmer both a<g ref="char:EOLhyphen"/>gainſt <hi>Moſes</hi> and their God; we find the <hi>Pro<g ref="char:EOLhyphen"/>phet</hi> Comforting, Encouraging, and reaſſur<g ref="char:EOLhyphen"/>ing them in the words of my Text, <hi>Fear ye not, ſtand ſtill, and ſee the Salvation of the Lord.</hi>
+            </p>
+            <pb n="4" facs="tcp:54283:6"/>
+            <p>Bleſſed be God, the hopeful poſture of our preſent Affairs, and the happy circumſtances under which we now are, make our caſe ſo different from that of the <hi>Iſraelites,</hi> that it does not deſerve the name of a <hi>Parallel;</hi> I ſhall therefore conſider the words nakedly in themſelves, independently from the Hiſtory of which they are a part, as they contain an Exhortation conſiſting of two branches:</p>
+            <p>The 1ſt. perſwading to Courage and Re<g ref="char:EOLhyphen"/>ſolution; <hi>Fear ye not, stand ſtill.</hi>
+            </p>
+            <p>The 2d. Adviſing to an abſolute depen<g ref="char:EOLhyphen"/>dance upon God for his Protection; <hi>And ſee the Salvation of the Lord.</hi>
+            </p>
+            <p n="1">1ſt. Then, here is an Exhortation to Cou<g ref="char:EOLhyphen"/>rage and Reſolution; <hi>Fear ye not, ſtand still.</hi>
+            </p>
+            <p>
+               <hi>By not Fearing,</hi> I do not mean ſuch a dull and heavy unconcernedneſs, by which a man is unſenſible of approaching dangers, and care<g ref="char:EOLhyphen"/>leſs to prevent or to reſiſt them; but ſuch a firmneſs of Mind and conſtancy of Spirit, as enables one fully to bear up under them, to
+<pb n="5" facs="tcp:54283:6"/>ſtruggle with, and overcome them: Neither by <hi>ſtanding ſtill,</hi> do I deſign, ſuch a ſtupid quiet, and unactive ceſſation, by which one is con<g ref="char:EOLhyphen"/>tented to be a bare looker on, without any vigorous endeavours for the Common Preſer<g ref="char:EOLhyphen"/>vation; but ſuch a fixed and ſetled poſture of the Soul, as may qualify one to ſtuſtain the ſhock of whatſoever dangers, and encourage him to repel them with an unſhaken ſtedfaſt<g ref="char:EOLhyphen"/>neſs. And in this ſenſe it is that we ought to underſtand this pithy Exhortation to Courage and Reſolution, <hi>Fear ye not, ſtand ſtill.</hi> And indeed, as in concerns of a <hi>Spiritual</hi> Nature, <hi>Preſumption</hi> is a ſin of a very deep dye, being a poſitive offence againſt the <hi>Juſtice</hi> of the Almighty; and yet <hi>Deſpair</hi> a greater, as di<g ref="char:EOLhyphen"/>rectly affronting his darling Attribute his <hi>Mercy:</hi> ſo alſo in <hi>Temporal</hi> Affairs, a too great <hi>Security,</hi> tho very fatal and deſtructive, yet having ſomething in it that looks like Manhood, does not appear ſo ſhameful and ſo blameable, as a wretched <hi>deſpondency</hi> and <hi>di<g ref="char:EOLhyphen"/>ſtrust,</hi> which proceeds from weakneſs, and is utterly Effeminate. It is, we know, one
+<pb n="6" facs="tcp:54283:7"/>of the Curſes denounced by God againſt im<g ref="char:EOLhyphen"/>penitent Sinners, <hi>That they ſhall fear where no fear is;</hi> and whoſoever gives the Reins to this paſſion, farther than the occaſion juſtly requires, is in ſome meaſure liable to this imputation: That therefore we may avoid ſo infamous a Character, by the due exerciſe of the oppo<g ref="char:EOLhyphen"/>ſite Vertue, let us view the obligations which lie upon us, under a twofold conſideration.</p>
+            <p n="1">1ſt. As we are <hi>Men.</hi>
+            </p>
+            <p n="2">2d. As we are <hi>Chriſtians.</hi>
+            </p>
+            <p n="1">1ſt. Then, we are obliged <hi>not to fear, but to ſtand ſtill,</hi> as we are <hi>Men.</hi>
+            </p>
+            <p>Whilſt all the other parts of the Creation were formed with <hi>dejected Countenances,</hi> in token of Obedience and Submiſſion; Man was Created with an <hi>erected Viſage,</hi> as the vi<g ref="char:EOLhyphen"/>ſible Characteriſtick of Majeſty and Power: And as his outward ſtructure bore all the marks of Sovereignty and Dominion, ſo was his Soul endued with a proportionable ſtock of Courage and Reſolution; as may fully ap<g ref="char:EOLhyphen"/>pear, by the firſt Couple's Converſing with<g ref="char:EOLhyphen"/>out fear amongſt thoſe very Creatures, which
+<pb n="7" facs="tcp:54283:7"/>now to us are ſo terrible and frightful: Sin made the firſt breach upon this inward guard, this Armour of the Soul; that gave an en<g ref="char:EOLhyphen"/>trance to the <hi>King of Terrours,</hi> and to all his pale Retinue of <hi>Fears</hi> and <hi>Apprehenſions;</hi> For, as from God's queſtion to <hi>Adam</hi> after his fall, <hi>(Adam, where art thou?)</hi> We may conclude that his hiding himſelf was unuſual; ſo from his Anſwer we may learn, that Fear was the reaſon of it, <hi>I heard thy Voice in the Garden and I was afraid:</hi> By how much more there<g ref="char:EOLhyphen"/>fore we indulge this unmanly Paſſion, by ſo much the more are we eſtrang'd from the dig<g ref="char:EOLhyphen"/>nity of our Creation, and from the Purity of our firſt Condition. It is Juſtly obſerv<g ref="char:EOLhyphen"/>able, that in all Languages, the word uſed to expreſs <hi>manhood</hi> or <hi>courage,</hi> is deriv'd from that which ſignifies <hi>Humanity</hi> it ſelf; thus <hi>Virtus</hi> in the <hi>Latin,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in the <hi>Greek,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in the <hi>Hebrew, </hi> by which the common conſent of Nations ſeems to imply, that is a quality ingrafted in, and reſulting from our very Nature; and conſequently the laying it aſide, is a degrading our ſelves from the
+<pb n="8" facs="tcp:54283:8"/>rank of Rational Creatures, and leveling our ſelves with Brutes; ſo that the man without Courage (as well as <hi>the man without underſtand<g ref="char:EOLhyphen"/>ing) may juſtly be compared unto the Beasts that Periſh.</hi> But as the giving up our ſelves to the unruly guidance of Fear, is the greateſt <hi>baſe<g ref="char:EOLhyphen"/>neſs;</hi> ſo is it alſo the greateſt <hi>Folly: Peſſimus in dubiis augur Timor,</hi> Fear is the worſt Coun<g ref="char:EOLhyphen"/>ſellour in time of Danger; it diſtracts and confounds the wiſeſt and the beſt of men; this caus'd <hi>Moſes</hi> to ſtaggar at God's Com<g ref="char:EOLhyphen"/>mandment; this caus'd <hi>Elias</hi> to fly from the Womaniſh Threatnings of <hi>Jezabel;</hi> this caus'd <hi>Peter</hi> to deny his Maker; it under<g ref="char:EOLhyphen"/>mines the ſtrength, and betrays the ſucconrs of the Soul, deluding it with imaginary Idea's and falſe appearances; whilſt like a deceit<g ref="char:EOLhyphen"/>ful Perſpective, it repreſents the objects of our apprehenſion, nearer than the Truth, and larger than the Life: And therefore the Po<g ref="char:EOLhyphen"/>licy and Prudence of <hi>Gideon</hi> is juſtly to be commended, who proclaim'd throughout his Camp by ſound of Trumpet, <hi>Whoſoever is fear ful let him depart;</hi> the Nature of this Vice
+<pb n="9" facs="tcp:54283:8"/>being ſo infectious, that it often times corrupts the neighbourhood about it. But as to <hi>Fear</hi> all things ſeem difficult, ſo to true <hi>Courage</hi> no<g ref="char:EOLhyphen"/>thing is inſuperable: In the Land of <hi>Canaan</hi> were <hi>Gyants,</hi> to whom the <hi>Iſraelites</hi> compar'd, did ſeem but as <hi>Graſhoppers;</hi> yet ſaid <hi>Caleb</hi> and <hi>Joſhua, Fear them not, they are bread for us;</hi> bread, which is eaten without any labour or diffi<g ref="char:EOLhyphen"/>culty; which is ſo far from diminiſhing the Spirits, that it encreaſes and augments the Health and Vigour of thoſe that eat it. To this ſame purpoſe we read of <hi>Joab,</hi> that when he Warred againſt the <hi>Ammonites,</hi> he began his Exhortation before the Battle with theſe words, <hi>Be of good Courage, and let us play the men;</hi> as if, being Valiant, and being Men, were terms Synonymous, and only diverſly expreſſed the ſame thing. If therefore we conſider our ſelves but barely as <hi>Men,</hi> this Ex<g ref="char:EOLhyphen"/>hortation muſt be proper and convenient, <hi>Fear ye not, ſtand ſtill.</hi>
+            </p>
+            <p>But if we are obliged to Fortitude and Re<g ref="char:EOLhyphen"/>ſolution, as we are meer <hi>men;</hi> much more are we ſo, if we reflect upon our ſelves,</p>
+            <pb n="10" facs="tcp:54283:9"/>
+            <p n="2">2dly. As we are <hi>Chriſtians.</hi>
+            </p>
+            <p>It is the true and genuine property of our Chriſtian Profeſſion, to ſublimate and exalt to a higher degree of Perfection, whatever Vertues it finds implanted in our Nature: For it is a ſlander caſt upon Religion, by ſuch as are wholy unacquainted with it, and by ſuch as maintain falſe Notions of Honour, that it only ſerves to make men <hi>Cowards;</hi> the <hi>Fear of God,</hi> is the beſt Armour againſt the <hi>Fear of Man,</hi> and true Devotion is the Root of Courage: <hi>By Faith our Fathers ſubdued Kingdoms, waxed valiant in Fights, put to flight the Armies of the Aliens,</hi> ſays the Author to the <hi>Hebrews.</hi> And thus indeed it ought to be, if we will but look a little backwards, upon the firſt Inlet and occaſion of Fear and Apprehenſion: Original Guilt was the fatal cauſe, of which Fear is the un<g ref="char:EOLhyphen"/>happy effect; when the former ceaſes, the lat<g ref="char:EOLhyphen"/>ter cannot poſſibly ſubſiſt; but as we are Chri<g ref="char:EOLhyphen"/>ſtians, we have renounced the One, and there<g ref="char:EOLhyphen"/>fore the other ſhould neceſſarily vaniſh: And indeed, if we conſider the matter impartially, we ſhall always find our ſins to be the occaſions
+<pb n="11" facs="tcp:54283:9"/>of our Fears; not only, as they are the means of drawing down thoſe Judgments of which we are apprehenſive; but alſo, as they de<g ref="char:EOLhyphen"/>ſtroy that confidence and aſſurance, which we ought to have in our Almighty Protectour: Fear therefore being the conſequence of Guilt, if Chriſtianity obliges us not to ſin, it at the ſame time teaches us not to Fear; and as no Chriſtian will diſpute the one, ſo no rational concluder can deny the other; eſ<g ref="char:EOLhyphen"/>pecially, if we take notice, that the three moſt Eminent Chriſtian Graces, <hi>Faith, Hope,</hi> and <hi>Charity,</hi> are abſolutely inconſiſtent with the Practice of it. And,</p>
+            <p n="1">1ſt. As to <hi>Faith;</hi> we have our Saviours own Authority for it, in the 14th. chap. of St. <hi>Matthew's</hi> Goſpel; where ſtretching forth his hand to finking <hi>Peter,</hi> he reprehends him in theſe words, <hi>O thou of little Faith! wherefore didst thou doubt?</hi> Wavering and doubtfulneſs, which is but the firſt ſtep towards downright Fearing, being here branded (tho the danger was ſo imminent) with the black aſperſion of <hi>weakneſs in the Faith.</hi>
+            </p>
+            <pb n="12" facs="tcp:54283:10"/>
+            <p n="2">2dly. As to <hi>Hope;</hi> tho it may allow of ſuch a mixture of uncertainty, as may ſharpen its Appetite, and make that more eager (and this it always will partake of till it is chang'd into <hi>Fruition;</hi>) yet ſuch a <hi>Fear</hi> as we now ſpeak of is utterly incompatible with it; and theſe two can no more be found together, than contraries can mutually ſupport each o<g ref="char:EOLhyphen"/>ther, or contradictions ſhake hands and be re<g ref="char:EOLhyphen"/>concil'd.</p>
+            <p n="3">3dly. As to <hi>Charity;</hi> the beloved Apoſtle informs us, That <hi>there is no fear in Love, but perfect Love caſteth out Fear;</hi> now <hi>Charity</hi> being the Perfection of Love in its higheſt and moſt intenſe degree, muſt con<g ref="char:EOLhyphen"/>ſequently have the deepeſt averſion againſt that ſordid Paſſion, which is hereby declared to be inconſiſtent with perfect Love. And certainly, the Love of God and his Religi<g ref="char:EOLhyphen"/>on, can enliven Chriſtians with a much greater warmth of Courage and Reſolution, than the bare Love of ones Country, or ones Hon<g ref="char:EOLhyphen"/>our, could poſſibly inſpire into the Natural Man: This has been evidenc'd by a Cloud of
+<pb n="13" facs="tcp:54283:10"/>Witneſſes: Let the Heathens brag of their <hi>De<g ref="char:EOLhyphen"/>cius</hi> and their <hi>Curtius,</hi> that devoted themſelves to Death for the ſafety of their Country; we have our <hi>Moſes</hi> and St. <hi>Paul,</hi> that deſired to be made <hi>accurſed for the Children of God:</hi> Their <hi>Socrates</hi> drank his poiſon chearfully; our <hi>Cy<g ref="char:EOLhyphen"/>prian</hi> ſaid <hi>Amen,</hi> to the ſentence of his own con<g ref="char:EOLhyphen"/>demnation: Their <hi>Scaevola</hi> burnt his hand with an unaltered Countenance; we are able to name a whole Army of <hi>Martyrs,</hi> who have kiſſed the ſtake, enjoyed the flames, and ſung <hi>Hymns</hi> in the midſt of their Torments and Per<g ref="char:EOLhyphen"/>ſecutions. Thus in true courage, the Chriſti<g ref="char:EOLhyphen"/>an world as far exceeds the Heathen, as in the motives to it, and in the goodneſs of the cauſe. Some indeed there are, and thoſe too many, who think courage to conſiſt in Roaring and Blaſpheming, in ſpeaking big words, and Ty<g ref="char:EOLhyphen"/>rannizing over their inferiours, in quarrelling and duelling, in trampling under foot all Laws and Conſtitutions both of God and Man: but theſe things, my beloved, ought not ſo to be: True Chriſtian courage, ſuch as I recommend to all who now hear me, is fearful to offend
+<pb n="14" facs="tcp:54283:11"/>God; has a Reverend regard to the Laws; is obedient to lawful ſuperiours, courteous to equals, affable and indulgent to inferiours; evermore grounded upon a good cauſe, and therefore ſtill accompanied with Piety, Chearfulneſs, and Reſolution. <hi>The Wicked</hi> indeed <hi>fleeth, when no man purſueth; but the Righteous is bold as a Lion: He ſhall not be afraid for any evil Tidings;</hi> (the reaſon follows im<g ref="char:EOLhyphen"/>mediately after) <hi>for his Heart ſtandeth faſt and believeth in the Lord.</hi> And this leads me to the conſideration of the</p>
+            <p n="2">2d. Branch of my Text; namely, The <hi>Prophet's</hi> Exhortation to an abſolute depen<g ref="char:EOLhyphen"/>dance upon God for his Protection; <hi>fear ye not, ſtand still, and ſee the Salvation of the Lord.</hi>
+            </p>
+            <p>Since <hi>the Race is not always to the Swift, nor the Battle to the Strong,</hi> or the Couragious, <hi>but time and chance</hi> (as the <hi>Preacher</hi> obſerves) <hi>happens to them hoth;</hi> the beſt way to ſecure to our ſelves a certainty of Succeſs, is to fix our dependance upon <hi>the Father of Lights, with whom is no vari<g ref="char:EOLhyphen"/>ableneſs, neither ſhadow of turning:</hi> Then tho the Arm of Fleſh ſhould be never ſo ſtrongly ex<g ref="char:EOLhyphen"/>alted againſt us, yet ſhall we find, that the
+<pb n="15" facs="tcp:54283:11"/>
+               <hi>Right hand of the Lord has the preeminence, that the Right hand of the Lord bringeth mighty things to paſs: It is better therefore to truſt in the Lord, than to put any confidence in man; it is better to truſt in the Lord, than to put any confidence in Princes.</hi> But ſince the mercy of God is not ſuch a fooliſh tenderneſs, or unaccountable relenting, as is ſometimes found in thoſe whom we ſtile good-natur'd Men, an eaſineſs of being wrought upon without any reaſon for it; I ſhall therefore,</p>
+            <p n="1">1ſt. Enquire, what is to be performed up<g ref="char:EOLhyphen"/>on our part, in order to fit us for the Divine Protection, or to qualify us for <hi>ſeeing the Salva<g ref="char:EOLhyphen"/>tion of the Lord.</hi> And,</p>
+            <p n="2">2dly. I ſhall prove, that if we are ſo qua<g ref="char:EOLhyphen"/>lified, we ſhall certainly be Protected, we ſhall aſſuredly <hi>ſee the Salvation of the Lord.</hi>
+            </p>
+            <p n="1">1ſt. Then, I ſhall enquire, what is to be per<g ref="char:EOLhyphen"/>formed upon our part, in order to fit us for the Divine Protection, or to qualify us for <hi>ſeeing the Salvation of the Lord.</hi>
+            </p>
+            <p>
+               <hi>The Lord is on my ſide,</hi> ſays the <hi>Royal Pſalmiſt, I will not fear what man can do unto me:</hi> We muſt
+<pb n="16" facs="tcp:54283:12"/>be ſecure that <hi>God is on our ſide,</hi> if we would be free from Human Apprehenſions. Now to make us ſecure of this, it is not enough that we can ſay we are Chriſtians, we are Pro<g ref="char:EOLhyphen"/>teſtants, we are called by his Name, we are Members of the Pureſt Church upon Earth. No, unleſs our Practices are agreeable to our Profeſſion, unleſs we exemplify our high call<g ref="char:EOLhyphen"/>ing in our Lives and Converſations, theſe are but ſo many enhancements of our guilt, a<g ref="char:EOLhyphen"/>buſes of the manifold advantages which God has beſtowed upon us, and are ſo far from af<g ref="char:EOLhyphen"/>fording us impunity and Protection, that they only qualify us for <hi>being beaten with many ſtripes.</hi> Neither are we to reflect upon the faults and errours of thoſe who ſeem deſign'd for the in<g ref="char:EOLhyphen"/>flicters of God's Judgments; and from thence preſently conclude, That God will not Fight againſt us upon their ſide: Their Offences are no extenuation of our guilt, and the Scourge may be made uſe of, tho it is afterwards to be caſt into the Fire: Executioners (we know) are ſeldom choſen out of the beſt of men; the vileſt and the meaneſt are generally thought fit
+<pb n="17" facs="tcp:54283:12"/>enough for ſuch an employment; and not on<g ref="char:EOLhyphen"/>ly the wicked part of human Kind, but even Lice and Flies; the meaneſt Particles and Re<g ref="char:EOLhyphen"/>fuſe of the Greation, in the avenging hand of God, become dreadful Inſtruments of his wrath and indignation. The ſureſt way to give a gueſs at our own condition, and the circum<g ref="char:EOLhyphen"/>ſtances we lye under for a well provided hope of Protection, is to <hi>examine our own ways;</hi> leſt otherwiſe, by endeavouring to ſhun one ex<g ref="char:EOLhyphen"/>tream, we ſhould ignorantly and unadviſedly run into another; and avoiding <hi>Deſpair,</hi> ſhould be guilty of <hi>Preſumption.</hi> To this purpoſe, the <hi>Royal Pſalmiſt</hi> (in the perſon of God) gives us this clear information; <hi>O! That my People would have harkened unto me! For if</hi> Iſrael <hi>would have walked in my ways; I ſhould ſoon have put down their Enemies, and turned my hand againſt their Adverſaries:</hi> This is the neceſſary and in<g ref="char:EOLhyphen"/>diſpenſible condition, without which we have no title to the Protection of our God. Let every one therefore amongſt us duly enquire into himſelf, and <hi>Commune with his own Heart ſecretly:</hi> Have I hearkened unto the Voice of my God, and have I walled in his ways?
+<pb n="18" facs="tcp:54283:13"/>Have I diligently ſought out his will, and carefully endeavoured to ſquare all my Acti<g ref="char:EOLhyphen"/>ons according to that rule? Have my Paths been the Paths of Righteouſneſs, and have I walked faithfully with my God? He that up<g ref="char:EOLhyphen"/>on ſuch an Examination, finds his Conſcience bearing witneſs for him, may Expoſtulate with the Almighty, in the Pathetical words of the <hi>Prophet Iſaiah; Look down, O Lord, from Heaven, and behold from the Habitation of thy Holineſs and of thy Glory: Where is thy Zeal, and thy ſtrength, the ſounding of thy Bowels, and of thy Mercies towards me, are they reſtrained? Doubtleſs thou art our Father, tho</hi> Abraham <hi>be ignorant of us, and</hi> Iſrael <hi>acknowledg us not; thou, O Lord, are our Father, our Redeemer, thy name is from everlaſting:</hi> But if upon a due ex<g ref="char:EOLhyphen"/>amination we find the contrary, as I fear it is the caſe of too many amongſt us, upon a juſt and ſerious Reflection, that we have hearken<g ref="char:EOLhyphen"/>ed only unto the voice of our Luſts, and that our ways have been the ways of Death; let us then, in the Name of God, endeavour to renew our ſelves by a hearty Repentance, by a thorough Reformation; immediately
+<pb n="19" facs="tcp:54283:13"/>ſetting about to remove our Sins far from us, by which only we can be removed from the Protection of our God: <hi>Let every man turn from his evil way, and from the violence which is in his hand; and God will</hi> aſſuredly <hi>turn and re<g ref="char:EOLhyphen"/>pent, and turn away from his fierce anger, that we periſh not.</hi> Thus, if by a ſpeedy and ſincere Repentance, we make our ſins, that were <hi>red as Crimſon,</hi> become <hi>whiter than the Wooll;</hi> God alſo will certainly do his part, <hi>he will make us to hear of joy and gladneſs,</hi> and cauſe <hi>the bones which he had broken to rejoyce:</hi> Then may we take up the <hi>Prophet David's</hi> chearful Ejaculati<g ref="char:EOLhyphen"/>on, <hi>God ſhall deliver us from the ſnare of the hun<g ref="char:EOLhyphen"/>ter, and from the noiſome Peſtilence; he ſhall de<g ref="char:EOLhyphen"/>fend us under his Wings, and we ſhall be ſafe un<g ref="char:EOLhyphen"/>der his Feathers, his Faithfulneſs and Truth ſhall be our Shield and Buckler; we ſhall not be afraid for any Terrour by Night, nor for the Arrow that flieth by day; a thouſand ſhall fall beſide us, and ten thouſand upon our Right Hand, but it ſhall not come nigh us; for the Lord is our defence, the God of</hi> Jacob <hi>is our Refuge.</hi> And this leads me to the conſideration of the</p>
+            <pb n="20" facs="tcp:54283:14"/>
+            <p n="2">2d. Particular, namely, to prove, that if we are thus qualified, we ſhall certainly be Protected, we ſhall aſſuredly <hi>ſee the Salvation of the Lord. Fear ye not, ſtand ſtill, and ſee the Salvation of the Lord.</hi>
+            </p>
+            <p>
+               <hi>Behold, the hand of the Lord is not ſhortned, that it cannot ſave; neither his ear heavy, that it can<g ref="char:EOLhyphen"/>not hear; unleſs our iniquities do ſeparate between us and our God, and our ſins do hide his Face from us; he will hear the cry of ſuch as call upon him, yea, of all ſuch as call upon him faithfully.</hi> This we find to have been his conſtant way of Proceeding with his choſen People; <hi>If they rebelled againſt the words of God, and contemn<g ref="char:EOLhyphen"/>ed the Councel of the the moſt high; then he brought down their Heart with labour, they fell down, and there was none to help: But when they cried unto the Lord in their trouble, he delivered them out of their distreſſes; he ſent his word, and healed them; and they were ſaved from their destruction.</hi> The truth of this Doctrine is undeniably made out, by the remarkable deliverance pointed at in my Text. The <hi>Iſraelites</hi> were purſued by the whole ſtrength of <hi>Egypt;</hi> they could not turn <hi>on either ſide,</hi> for the Mountains that environ<g ref="char:EOLhyphen"/>ed
+<pb n="21" facs="tcp:54283:14"/>them, their progreſs was ſtopped by <hi>the Red-Sea before them,</hi> and their retreat cut off by <hi>the Egyptians behind them:</hi> The poor Fu<g ref="char:EOLhyphen"/>gitives thus miſerably hemmed in, were a naked and defenceleſs multitude; their very number, which yet was all they had to truſt to, was not their ſmalleſt inconvenience; be<g ref="char:EOLhyphen"/>ing chiefly compoſed of Women and of Chil<g ref="char:EOLhyphen"/>dren; whoſe Tears and Lamentations, ſoften<g ref="char:EOLhyphen"/>ed thoſe Hearts into tenderneſs and compaſſion, which ſhould have been ſteel'd with Courage and Reſolution: What ſhould they do, being thus ſurrounded with horrour and deſtructi<g ref="char:EOLhyphen"/>on? We are told in the 10th. verſe of this ſame Chapter, that when <hi>they lift up their eyes, and beheld</hi> Pharaoh <hi>marching after them, they cryed out unto the Lord:</hi> And we find the conſe<g ref="char:EOLhyphen"/>quence to be, that the Lord heard them; and turn'd that attempt which was deſigned for their deſtruction, into a ſignal Inſtance of his Favour towards them, and the utter ruin of their inſulting Adverſaries. And ſince in this particular our caſe reſembles that of the <hi>Iſrael<g ref="char:EOLhyphen"/>ites,</hi> namely, that the cauſe of the Malice of our Adverſaries, is only that we will not be<g ref="char:EOLhyphen"/>comes
+<pb n="22" facs="tcp:54283:15"/>ſlaves to the <hi>Egyptians;</hi> and that we will not bow down before the <hi>Idols</hi> of <hi>Egypt;</hi> but are reſolved to <hi>Offer Sacrifice unto the Lord our God;</hi> were our condition as helpleſs as we find theirs to have been (and God be praiſ<g ref="char:EOLhyphen"/>ed it is moſt happily different) we are as juſt<g ref="char:EOLhyphen"/>ly intituled to a Miraculous Deliverance. But we need not go abroad for Inſtances of this Nature, our own experience will abundantly ſupply, conſiderable Examples of the Divine Protection. How wonderfully has God ap<g ref="char:EOLhyphen"/>peared in our behalf, not only in compleating that advantageous change in the <hi>Government</hi> of theſe Nations, by which our <hi>Religion</hi> and our <hi>Liberties</hi> were ſecured; but alſo by watching over it in a peculiar manner, and defeating all deſigns which were deviſed for its Deſtructi<g ref="char:EOLhyphen"/>on! For, not to look backwards to former de<g ref="char:EOLhyphen"/>liverances, which are much too numerous to be inſiſted upon at preſent, how wonderful a Mercy have we lately experienced! if an at<g ref="char:EOLhyphen"/>tempt be made to ſurprize us unprovided, (as in the <hi>Invaſion</hi> at this time deſigned) the <hi>Winds</hi> and the <hi>Weather</hi> conſpire to keep back our E<g ref="char:EOLhyphen"/>nemies till their intentions are diſcovered, and
+<pb n="23" facs="tcp:54283:15"/>their contrivances laid open: If <hi>ſecret Practices</hi> are levelled againſt the <hi>Government,</hi> and <hi>Plots</hi> are carried on for the imbroiling us again (as in the <hi>Horrid Treaſon</hi> ſo freſhly diſcovered) <hi>the Providence of God</hi> interpoſes for us viſibly, and brings to light the cloſeſt Machinations: Thus by the wonderful goodneſs of Almighty God, no <hi>Weapon,</hi> no <hi>Deſign</hi> form'd againſt us has proſpered; but <hi>our Souls have eſcaped like a bird out of the ſnare of the fowler, the net is broken, and we are delivered.</hi> Give me leave to ſtop here a little, and to take an imperfect Proſpect of that moſt valuable Bleſſing, which has ſo late<g ref="char:EOLhyphen"/>ly been conferred upon us: And we cannot any way more juſtly make an Eſtimate of it, than by conſidering the Miſeries to which we muſt have been expoſed, had we not been reſ<g ref="char:EOLhyphen"/>cued from them by ſo eminent a Providence: What <hi>Confuſions,</hi> what <hi>Diſtractions</hi> muſt we have lain under, if by a <hi>Barbarous and Bloody Aſſaſſination,</hi> the <hi>Confederate Armies</hi> had loſt their <hi>General,</hi> and <hi>Neighbouring Allies</hi> their <hi>Chief Magiſtrate, theſe Nations,</hi> their LAWFUL and RIGHTFUL KING! And that at a con<g ref="char:EOLhyphen"/>juncture the moſt likeliſt of any, when the
+<pb n="24" facs="tcp:54283:16"/>embaſement and ſcarcity of our current Coin, had ſpread a general uneaſineſs throughout the Kingdom; and when all theſe perplexities were about to be encreaſed, by the additional Calamity of a <hi>Forreign Invaſion!</hi> The Scene of Affairs muſt have been ſo diſmal, that it re<g ref="char:EOLhyphen"/>quires ſome of that Courage which I have been recommending to you, to take a view of thoſe extremities, tho we have happily eſ<g ref="char:EOLhyphen"/>caped them. But as this <hi>Deſign</hi> was a <hi>Ma<g ref="char:EOLhyphen"/>ſter-piece of Villany;</hi> and timed with all the Artifice of cunning Malice; ſo has it pleaſed God, by his gracious Diſappointment of it, to raiſe much <hi>Good</hi> out of that Evil; and to <hi>Eſtabliſh the Government,</hi> by thoſe very means, by which its Enemies contrived <hi>to overturn it:</hi> For as it muſt needs confirm the Layalty of <hi>the well-affected,</hi> by ſhewing them the great im<g ref="char:EOLhyphen"/>portance of <hi>His</hi> Safety, who is both their <hi>King</hi> and their <hi>Benefactour;</hi> ſo I hope it will open the Eyes of ſome <hi>deluded People,</hi> by ſhew<g ref="char:EOLhyphen"/>in them the <hi>weakneſs</hi> and the <hi>badneſs</hi> of that <hi>Cauſe,</hi> which makes uſe of ſuch <hi>vile methods</hi> to ſuſtain and ſupport it ſelf. How chearfully then, upon a due Contemplation of ſuch re<g ref="char:EOLhyphen"/>makable
+<pb n="25" facs="tcp:54283:16"/>Providences, as I have juſt now been treating of, may we Exhort one another <hi>not to fear,</hi> ſince ſo often heretofore, and ſo ſignally of late <hi>we have ſeen the Salvation of the Lord.</hi>
+            </p>
+            <p>I would to God, a due conſideration of thoſe ſeveral particulars, wherein God has appear<g ref="char:EOLhyphen"/>ed to eſpouſe the cauſe we ſtand for, would prevail with thoſe <hi>who are Enemies to our Peace,</hi> no longer to combate the workings of <hi>Omnipo<g ref="char:EOLhyphen"/>tency;</hi> but to take the advice which God for<g ref="char:EOLhyphen"/>merly gave to the Houſe of <hi>Judah, Ye ſhall not go up to Fight againſt your Brethren, for this thing is from me:</hi> Eſpecially that ſuch among them as are <hi>Engliſhmen,</hi> and <hi>Proteſtants,</hi> would ceaſe to act ſo unſuitably to both thoſe Characters; by betraying at once their <hi>Liberty</hi> and <hi>Religion,</hi> in deſperately abetting the attempts of thoſe, who would give us nothing elſe but <hi>Slavery</hi> for the One, and <hi>Popery</hi> for the Other: And this I wiſh, chiefly for their own ſakes; ſince I am not apprehenſive that they are ſo conſiderable, as to bring <hi>Danger,</hi> but <hi>Scandal,</hi> upon their <hi>Country</hi> and <hi>Profeſſion.</hi> If therefore we are not ſo mad as to play booty againſt our ſelves; if we will not Fight the Battles of our Ene<g ref="char:EOLhyphen"/>mies,
+<pb n="26" facs="tcp:54283:17"/>by unqualifying our ſelves for the Di<g ref="char:EOLhyphen"/>vine Protection; we ſhall aſſuredly find, that <hi>God,</hi> who <hi>is a preſent help in trouble, will never leave us, nor forſake us:</hi> Then may we lay hold upon all God's attributes, and engage them to Fight in our behalf: The Bowels of his in<g ref="char:EOLhyphen"/>finite <hi>Mercy</hi> will yearn over us; his impartial <hi>Juſtice,</hi> when thus appeaſed, will ceaſe to be our Accuſer, and become our Advocate; his eternal <hi>Truth</hi> will ſtand bound to make good his gracious Promiſes; his unbounded <hi>Wiſdom</hi> will find out the method for our deliverance; and his almighty <hi>Power</hi> will execute and go through with it. <hi>Fear ye not therefore, ſtand ſtill, and ſee the Salvation of the Lord;</hi> firmly rely upon him for his Protection, and <hi>caſt your care upon him, for he careth for you;</hi> not that you muſt ſo far depend upon him, as to neglect the means which he has put into your hands; we ſtand not in need of a Miracle for our Pre<g ref="char:EOLhyphen"/>ſervation, and therefore we muſt not expect one for it: Let us chearfully, and with confidence uſe our own endeavours; and God will not fail to do his part too, in giving a bleſſing to our undertakings: his <hi>former favours</hi> are ſo
+<pb n="27" facs="tcp:54283:17"/>many earneſts of <hi>future indulgences;</hi> unleſs we make our ſelves unworthy of them, either by our <hi>ingratitude,</hi> or our <hi>diſtruſt.</hi> Let us coura<g ref="char:EOLhyphen"/>geouſly and undauntedly prepare our ſelves, to confront whatever dangers may oppoſe us, in the maintenance of <hi>a cauſe ſo good and justifia<g ref="char:EOLhyphen"/>ble:</hi> Let us Arm our ſelves with <hi>Innocence,</hi> and Fortify our ſelves with <hi>Faith; and we need not fear what man can do unto us.</hi> Thus being re<g ref="char:EOLhyphen"/>ſolved to diſcharge our duty, let us leave the event of things to <hi>God</hi> and his <hi>good Providence;</hi> that the Glory of our Deliverance may be his alone, <hi>in whom we live, and move, and have our Being.</hi>
+            </p>
+            <p>I ſhall cloſe up all, with <hi>Joab's</hi> exhortation to the Armies of <hi>Iſrael; Be of good Courage, and let us play the men, for our people, and for the Cities of our God; and the Lord do that which ſeemeth him good.</hi>
+            </p>
+            <p>Now to God the Father, the Son, and Holy Ghoſt, be aſcribed all Honour, Power, Might, Majeſty, and Dominion, henceforth and for evermore, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:54283:18"/>
+            <head>
+               <hi>Sermons Preached by the Reverend</hi> Mr. Brady, <hi>and Printed for</hi> R. Parker.</head>
+            <p>A Sermon Preached at <hi>Helmingham</hi> in <hi>Suf<g ref="char:EOLhyphen"/>folk, June</hi> 30th, 1694. at the Funeral of Lieutenant General <hi>Talmach.</hi> Publiſhed at the requeſt of the Friends of the Deceaſed.</p>
+            <p>A Sermon Preached at <hi>White-hall, March</hi> 3. 169<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. upon occaſion of her late Majeſties Death, before the Right Honourable the Counteſs of <hi>Darby,</hi> and the reſt of the Mourn<g ref="char:EOLhyphen"/>ing Ladies. Publiſhed at the requeſt of that Honourable Audience.</p>
+            <p>A Sermon Preach'd at the Pariſh-Church of St. <hi>Martin</hi>'s <hi>Ludgate,</hi> Sept. 12th. 1695. be<g ref="char:EOLhyphen"/>fore the Incorporated Society of <hi>Apothecaries</hi> of <hi>London.</hi> Publiſhed at the requeſt of the Soci<g ref="char:EOLhyphen"/>ety.</p>
+            <pb n="25" facs="tcp:54283:18"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="26" facs="tcp:54283:19"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="27" facs="tcp:54283:19"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
